@@ -7,5 +7,6 @@ public class Demo{
 int d=7;
 int r=6;
 int c=8;
+  int g=5;
   System.out.pritnln("Pentagon Space");
 }
